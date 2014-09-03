@@ -1,0 +1,22 @@
+{
+  "name": "Health2Go",
+  "version": "1.0.0",
+  "description": "Application to find health services",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdelmorala/Health2Go.git"
+  },
+  "author": "UP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdelmorala/Health2Go/issues"
+  },
+  "homepage": "https://github.com/fdelmorala/Health2Go",
+  "devDependencies": {
+    "bootstrap": "^3.2.0"
+  }
+}
